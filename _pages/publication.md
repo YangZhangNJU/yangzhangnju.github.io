@@ -7,7 +7,13 @@ author_profile: true
 
 ## Main papers: (* corresponding author)
 
+   Huang, Jing, **Yang Zhang**\*, Xin Wang\*, and Mengling Wang, 2025: Contrasting the intraseasonal precipitation in the western and eastern North Pacific during boreal winter. <u>Journal of Geophysical Research: Atmospheres</u>, 130, e2024JD041953, https://doi.org/10.1029/2024JD041953.
+
+   Huang, Jing, **Zhang, Yang**\* & Wang, Xin\*, Yang, Xiu-Qun, 2025: Evolution of the daily subtropical oceanic front variability and its impacts on near-surface atmosphere in the wintertime North Pacific. <u>Climate Dynamics</u>. 63. DOI:10.1007/s00382-025-07840-3.
+
    **Yang Zhang**\*, Yan Pan ,Yongkang Xue\* et al., 2024: Near-global Summer Circulation Response to the Spring Surface Temperature Anomaly in Tibetan Plateau -- The GEWEX/LS4P Phase I experiment, <u>Climate Dynamics</u>, DOI:10.1007/s00382-024-07210-5 / CLDY-D-23-00396R2.
+
+   Yongkang Xue\*, Ismaila Diallo, Aaron A. Boone, **Yang Zhang**, Xubin Zeng, William K. M. Lau, J. David Neelin, Tandong Yao et al., 2024: Remote effects of Tibetan Plateau spring land temperature on global subseasonal to seasonal precipitation prediction and comparison with effects of sea surface temperature: the GEWEX/LS4P Phase I experiment, Climate Dynamics, 62, 2603–2628, https://doi.org/10.1007/s00382-023-06905-5.
 
    Ran, X.(PHD student), Hu, D., **Zhang, Y.** and Liu, M. 2024: Relationship between the Stratospheric Arctic Vortex and Surface Air Temperature in the Midlatitudes of the Northern Hemisphere, <u>J. Meteor. Res.</u>, 38(1), 39–52, doi: 10.1007/s13351-024-3072-7. 
 
